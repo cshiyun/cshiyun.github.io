@@ -5,7 +5,7 @@ permalink: /data/
 ---
 
 ## Projects
-#### [Data Analysis using Excel Table, PivotTable & PivotChart](https://medium.com/@sycsy/data-analysis-and-visualisation-using-pivottable-pivotchart-565ee2d0497d)
+### [Data Analysis using Excel Table, PivotTable & PivotChart](https://medium.com/@sycsy/data-analysis-and-visualisation-using-pivottable-pivotchart-565ee2d0497d)
 - To identify the most popular chocolate
 
 ![pt](https://github.com/sycsy/sycsy.github.io/assets/48885389/e10d6459-c3e9-47fa-81c5-b2916333fc05)
