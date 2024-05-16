@@ -30,7 +30,7 @@ theme: minima
 # in order as they should show up.
 header_pages:
   - about.md
-  - home.md
+  - links.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
