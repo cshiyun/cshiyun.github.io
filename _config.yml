@@ -1,6 +1,6 @@
 title: Shiyun
-remote_theme: jekyll/minima
-
+#remote_theme: jekyll/minima
+theme: jekyll-theme-minimal
 # Link pages
 header_pages:
   - about.md
