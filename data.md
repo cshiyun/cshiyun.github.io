@@ -7,9 +7,7 @@ permalink: /data/
 ### [Data Analysis using Excel Table, PivotTable & PivotChart](https://medium.com/@sycsy/data-analysis-and-visualisation-using-pivottable-pivotchart-565ee2d0497d)
 - To identify the most popular chocolate
 
-[<img src="pivottable.png" width="250"/>](pivottable.png)
-
-<img src="assets/images/pivottable.png" width="200">
+<img src="pivottable.jpg" alt="pivottable" width="200"/>
 
 
 ![dashboard](https://github.com/sycsy9/csy/assets/48885389/cf70e6d8-f25e-42d0-9f7e-017685b8a6bc){ width=50% }
