@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-## Basics of Data & Data Science
 
 ![d1](https://github.com/sycsy/sycsy.github.io/assets/48885389/13926f29-2c8e-42d7-93f1-afa4aa50c001)
 
