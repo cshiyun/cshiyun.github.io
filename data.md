@@ -11,7 +11,14 @@ permalink: /data/
 
 <img src="assets/images/pivottable.png" width="200">
 
-https://github.com/sycsy9/csy/blob/main/assets/images/pivottable.png
+
+![dashboard](https://github.com/sycsy9/csy/assets/48885389/cf70e6d8-f25e-42d0-9f7e-017685b8a6bc){ width=50% }
+
+![iris](https://github.com/sycsy9/csy/assets/48885389/aa35198a-8c8c-4f95-bbfc-15c0bcf75b92)
+![netflix](https://github.com/sycsy9/csy/assets/48885389/09475135-e8d1-4851-a1c9-849c0b6d274e)
+![pivottable](https://github.com/sycsy9/csy/assets/48885389/c968e85c-8212-42d6-8a0d-f916b6316b41)
+![scores](https://github.com/sycsy9/csy/assets/48885389/b66b253d-d343-4a26-8df8-1aa317bd9b94)
+
 <br />
 
 ### [Visualising World Covid-19 Cases using Tableau](https://public.tableau.com/app/profile/syvizzes/viz/WorldCovid-19_16871536293740/Dashboard1)
