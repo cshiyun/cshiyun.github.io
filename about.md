@@ -27,5 +27,4 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 
 
 
-###### *Reference:*
-- *jekyll minima theme, sycsy(v1)*
+*Reference: jekyll minima theme, sycsy(v1)*
