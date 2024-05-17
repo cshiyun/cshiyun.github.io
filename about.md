@@ -20,3 +20,6 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 - [Tableau](https://public.tableau.com/app/profile/syvizzes)
 - [Medium](https://medium.com/@sycsy)
 
+
+###### Reference: Jekyll Minima
+
