@@ -8,7 +8,7 @@ permalink: /data/
 - To identify the most popular chocolate
 
 <img src="pivottable.png" width="200" height="100">
-
+https://github.com/sycsy9/csy/blob/main/assets/images/pivottable.png
 <br />
 
 ### [Visualising World Covid-19 Cases using Tableau](https://public.tableau.com/app/profile/syvizzes/viz/WorldCovid-19_16871536293740/Dashboard1)
