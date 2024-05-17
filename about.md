@@ -23,4 +23,4 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 <br/>
 <br/>
 
-###### Reference: jekyll minima theme
+###### Reference: jekyll minima theme, my site (v1)
