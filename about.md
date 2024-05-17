@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-:potted_plant:
+~ :potted_plant:
+
 # Hello, I'm Shiyun.
 I studied EEE. I am experienced in supporting large-scale systems projects, and have some working knowledge of data.
 1. Data
