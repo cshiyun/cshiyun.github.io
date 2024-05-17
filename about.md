@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+# Hello, I'm Shiyun.
 I studied EEE. I am experienced in supporting large-scale systems projects, and have some working knowledge of data.
 1. Data
 - Certified in data analytics (advanced excel & python)
@@ -13,6 +14,7 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 <br/>
 
 > Links
+
 - [Github](https://github.com/sycsy)
 - [Tableau](https://public.tableau.com/app/profile/syvizzes)
 - [Medium](https://medium.com/@sycsy)
