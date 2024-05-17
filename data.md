@@ -25,7 +25,7 @@ permalink: /data/
 ### [Data Cleaning Netflix](https://github.com/sycsy/data/blob/main/python/project%202%20-%20netflix%20data%20cleaning.ipynb)
 - To remove null values
 
-<img src="assets/images/netflix.png" width="200">
+<img src="assets/images/netflix.png" width="170">
 <br />
 
 ### [Exploratory Data Analysis Student Performance](https://github.com/sycsy/data/blob/main/python/project%203%20-%20student%20performance%20eda.ipynb)
