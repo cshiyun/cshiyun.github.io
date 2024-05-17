@@ -10,4 +10,8 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 2. Systems
 - Software development lifecycle product management
 
+> Links
+- [Github](https://github.com/sycsy)
+- [Tableau](https://public.tableau.com/app/profile/syvizzes)
+- [Medium](https://medium.com/@sycsy)
 
