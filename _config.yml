@@ -8,19 +8,6 @@ header_pages:
   - data.md
   - digital.md
 
-
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Theme-specific settings
-
-# If you want to link only specific pages in your header, use this and add the path to the pages
-# in order as they should show up.
-header_pages:
-  - about.md
-
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
 
@@ -43,5 +30,5 @@ minima:
 
   # Generate social links in footer.
 social_links:
-  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+  - { platform: github, user_url: "https://github.com/jekyll/minima" }
   
