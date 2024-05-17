@@ -7,29 +7,29 @@ permalink: /data/
 ### [Data Analysis using Excel Table, PivotTable & PivotChart](https://medium.com/@sycsy/data-analysis-and-visualisation-using-pivottable-pivotchart-565ee2d0497d)
 - To identify the most popular chocolate
   
-<img src="assets/images/pivottable.png" width="600">
+
 <br />
 
 ### [Visualising World Covid-19 Cases using Tableau](https://public.tableau.com/app/profile/syvizzes/viz/WorldCovid-19_16871536293740/Dashboard1)
 - To track top confirmed and recovered cases
 
-<img src="assets/images/dashboard.png" width="500">
+
 <br />
 
 ### [Machine Learning Iris](https://github.com/sycsy/data/blob/main/python/project%201%20-%20iris%20ml.ipynb)
 - To identify different species of iris
 
-<img src="assets/images/iris.png" width="500">
+
 <br />
 
 ### [Data Cleaning Netflix](https://github.com/sycsy/data/blob/main/python/project%202%20-%20netflix%20data%20cleaning.ipynb)
 - To remove null values
 
-<img src="assets/images/netflix.png" width="170">
+
 <br />
 
 ### [Exploratory Data Analysis Student Performance](https://github.com/sycsy/data/blob/main/python/project%203%20-%20student%20performance%20eda.ipynb)
 - To understand on how parental education, student's lunch break routines and test preparation will affect their exams performance
+  
 
-<img src="assets/images/scores.png" width="500">
 <br />
