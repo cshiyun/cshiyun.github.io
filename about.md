@@ -3,3 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+I studied EEE. I am experienced in supporting large-scale systems projects, and have some working knowledge of data.
+1. Data
+- Certified in data analytics (advanced excel & python)
+
+2. Systems
+- Software development lifecycle product management
+
+Click [here](https://sycsy.github.io/csy/data/) to read more.
+
+
