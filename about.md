@@ -7,7 +7,7 @@ permalink: /about/
 ## Hello, I'm Csy🪴
 I studied EEE. I am experienced in supporting large-scale systems projects, and have some working knowledge of data.
 1. Data
-- Certified in data analytics (advanced excel & python)
+- Certified in data analytics
 
 2. Systems
 - Software development lifecycle product management
