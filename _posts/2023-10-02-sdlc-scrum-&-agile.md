@@ -4,7 +4,7 @@ layout: post
 ### Introduction
 With the rise of digitalisation around the world, businesses are leveraging technologies to continuous improvement the product in an iterative development. Not only it is important to keep up to date with the latest technology but also to enhance user (UIUX) experience. Digital products involve the product development process through software development practices, allowing digital products and services to deliver faster as well as high-quality products to meet users’ needs.
 
-### Software development life cycle
+### **Software development life cycle**
 ![s1](https://github.com/sycsy/sycsy.github.io/assets/48885389/b09d6413-cafb-4c99-9c2d-d9e3bc95b77c)
 
 Software development life cycle (SDLC) is a methodology used in product/project management that describes the software product creation process. One of the best methodologies is the “Agile” model as shown in the above diagram.
@@ -44,8 +44,8 @@ Final code software product will test in user acceptance testing before sign off
 8. Maintenance
 This phase includes gathering any feedback from end users’, identifying other issues (UI, etc.), code enhancement or new and changing requirements.
 
-### Scrum
-### Agile methodology
+### **Scrum**
+### **Agile methodology**
 
 ![s2](https://github.com/sycsy/sycsy.github.io/assets/48885389/13d23425-d174-423f-81fc-c5d0d1e80a58)
 
