@@ -4,7 +4,7 @@ layout: post
 
 ![d1](https://github.com/sycsy/sycsy.github.io/assets/48885389/13926f29-2c8e-42d7-93f1-afa4aa50c001)
 
-### Data
+### **Data**
 ### Define data
 The word data means "information, especially facts or numbers, collected to be examined and considered and used to help decision-making, or information in an electronic form that can be stored and used by a computer:"
 
@@ -64,7 +64,7 @@ Example: Using Excel, SQL, Tableau, Python, R or Power BI, apply data mining tec
 Prepare reports with charts and visuals
 Communicate clear research findings to target users
 
-## Data Science
+## **Data Scienc**
 ![d6](https://github.com/sycsy/sycsy.github.io/assets/48885389/005ed01b-c20b-493b-95c0-a55b313a20b2)
 
 ### What is Data Science?
