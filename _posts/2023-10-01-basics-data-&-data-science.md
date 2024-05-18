@@ -64,7 +64,7 @@ Example: Using Excel, SQL, Tableau, Python, R or Power BI, apply data mining tec
 Prepare reports with charts and visuals
 Communicate clear research findings to target users
 
-## **Data Scienc**
+## **Data Science**
 ![d6](https://github.com/sycsy/sycsy.github.io/assets/48885389/005ed01b-c20b-493b-95c0-a55b313a20b2)
 
 ### What is Data Science?
