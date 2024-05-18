@@ -4,7 +4,7 @@ remote_theme: jekyll/minima
 
 # Link pages
 header_pages:
-  - _posts
+  - post.md/_posts
   - about.md
   - data.md
   - digital.md
