@@ -3,7 +3,7 @@ layout: page
 title: Data
 permalink: /data/
 ---
-## Projects
+
 #### [Data Analysis using Excel Table, PivotTable & PivotChart](https://medium.com/@sycsy/data-analysis-and-visualisation-using-pivottable-pivotchart-565ee2d0497d)
 - To identify the most popular chocolate
 
