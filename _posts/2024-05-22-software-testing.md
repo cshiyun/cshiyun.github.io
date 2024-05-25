@@ -2,6 +2,6 @@
 layout: post
 ---
 
-##  Software Testing Types
+### Testing Types
 
 in progress
