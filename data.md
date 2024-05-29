@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data
-permalink: /data/
+title: Projects
+permalink: /projects/
 ---
 
 ## Data
