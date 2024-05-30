@@ -30,7 +30,7 @@ permalink: /projects/
 ![netflix](https://github.com/sycsy9/csy/assets/48885389/09475135-e8d1-4851-a1c9-849c0b6d274e)
 <br />
 
-#### [Exploratory Data Analysis Student Performance](https://github.com/sycsy/data/blob/main/python/project%203%20-%20student%20performance%20eda.ipynb)
+#### [Exploratory Data Analysis Student Performance](https://github.com/sycsy9/data/blob/main/python/project%203%20-%20student%20performance%20eda.ipynb)
 - To understand on how parental education, student's lunch break routines and test preparation will affect their exams performance
 
 ![scores](https://github.com/sycsy9/csy/assets/48885389/b66b253d-d343-4a26-8df8-1aa317bd9b94)
