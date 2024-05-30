@@ -18,7 +18,7 @@ permalink: /projects/
 ![dashboard](https://github.com/sycsy9/csy/assets/48885389/cf70e6d8-f25e-42d0-9f7e-017685b8a6bc)
 <br />
 
-#### [Machine Learning Iris](https://github.com/sycsy/data/blob/main/python/project%201%20-%20iris%20ml.ipynb)
+#### [Machine Learning Iris](https://github.com/sycsy9/data/blob/main/python/project%201%20-%20iris%20ml.ipynb)
 - To identify different species of iris
 
 ![iris](https://github.com/sycsy9/csy/assets/48885389/aa35198a-8c8c-4f95-bbfc-15c0bcf75b92)
