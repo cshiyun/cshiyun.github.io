@@ -14,11 +14,9 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 
 <br/>
 
-> Links
+> Link
 
-- [Github](https://github.com/sycsy9)
-- [Tableau](https://public.tableau.com/app/profile/csyviz)
-- [Medium](https://medium.com/@csyme)
+- [Github](https://github.com/cshiyun)
 
 <br/>
 <br/>
