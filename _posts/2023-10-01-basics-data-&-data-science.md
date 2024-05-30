@@ -2,7 +2,7 @@
 layout: post
 ---
 
-![d1](https://github.com/sycsy/sycsy.github.io/assets/48885389/13926f29-2c8e-42d7-93f1-afa4aa50c001)
+![d1](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/a65af1e8-9763-4730-9890-7c5c1189dd54)
 
 ### **Data**
 ### Define data
@@ -13,19 +13,19 @@ Data plays an essential role in today's digital world. Every applications (apps,
 
 In simple terms, data flows from a source to a destination.
 
-![d2](https://github.com/sycsy/sycsy.github.io/assets/48885389/b981550e-2849-4bb8-ab4e-c8076a900819)
+![d2](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/f8387e56-4709-46ad-8929-7e977392a1bc)
 
 ### Data types
 Data can be classified into two types: structured and unstructured. Structured data (quantitative) consists of numbers, while unstructured data (qualitative) consists of text as shown in below table.
 
-![d3](https://github.com/sycsy/sycsy.github.io/assets/48885389/f7c81a85-76fd-4ad3-bc0c-b761222856bc)
+![d3](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/f6e748cf-93c4-45e3-b6da-e2b0f7463bed)
 
 Unlike structured data, unstructured data is less organised and difficult to search in databases. Unorganised raw data needs to be cleaned and processed to transform into organised useful information, which will provide businesses better insights into users. The data processes known as data analytics/data analysis will be discussed in subsequent part.
 
 Furthermore, the acceleration of digitalisation implies an increase in the number of digital data being stored in databases. With a large amount of data generated daily, the greatest challenge is to manage data storage within the system which will learn more in detail later.
 
 ### Data Analytics or Data Analysis
-![d4](https://github.com/sycsy/sycsy.github.io/assets/48885389/914adf17-e44a-4f05-9873-84bd6c08cf8a)
+![d4](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/8998030c-f87d-4fcf-8709-4a310e7bb63b)
 
 - Analytics uses statistics, data & machine learning to learn insights of data.
 
@@ -39,7 +39,7 @@ Data analytics is a field that encompasses data analysis as well as data science
 - Cognitive analytics: how problem can be solved
 
 ### Data analytics process
-![d5](https://github.com/sycsy/sycsy.github.io/assets/48885389/0366271e-f4ed-4e2c-828b-625986e70a72)
+![d5](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/46252f36-d436-4d89-a48c-bc80d62a772f)
 
 ### Data analysis
 Data analysis processes involve the following:
@@ -65,18 +65,18 @@ Prepare reports with charts and visuals
 Communicate clear research findings to target users
 
 ## **Data Science**
-![d6](https://github.com/sycsy/sycsy.github.io/assets/48885389/005ed01b-c20b-493b-95c0-a55b313a20b2)
+![d6](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/db6c7d2c-874a-4c2b-a678-f02a84f982fe)
 
 ### What is Data Science?
 Data science is about extracting insights from raw data (structured and unstructured) for business decision-making known as data science pipeline.
 
 As technology advances, data science applications can be found in various industries. A data science product (project) is maintained through a data science lifecycle to help answer questions and achieve business goals as shown below:
 
-![d7](https://github.com/sycsy/sycsy.github.io/assets/48885389/a3eabd66-0af9-4cac-83ea-55b3d8f855bb)
+![d7](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/23720958-0d5c-400d-9fa7-23dbabf46313)
 
 Artificial Intelligence and Machine Learning are some of the tech terms that we most often hear today.
 
-![d8](https://github.com/sycsy/sycsy.github.io/assets/48885389/3a630222-33d2-4aab-a3bb-31cbb25c3b62)
+![d8](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/35d2bf4f-1f75-4b68-835c-bb374556a13e)
 
 - Artificial Intelligence uses computer science and datasets that enable systems to learn human-like behaviour.
 - Machine Learning is a subfield of artificial intelligence techniques that help systems to extract information and learn from data.
