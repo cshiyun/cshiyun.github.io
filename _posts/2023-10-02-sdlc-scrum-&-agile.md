@@ -5,7 +5,7 @@ layout: post
 With the rise of digitalisation around the world, businesses are leveraging technologies to continuous improvement the product in an iterative development. Not only it is important to keep up to date with the latest technology but also to enhance user (UIUX) experience. Digital products involve the product development process through software development practices, allowing digital products and services to deliver faster as well as high-quality products to meet users’ needs.
 
 ### **Software development life cycle**
-![s1](https://github.com/sycsy/sycsy.github.io/assets/48885389/b09d6413-cafb-4c99-9c2d-d9e3bc95b77c)
+![s1](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/bbafb434-5ae7-45a5-a4db-3cca2506828a)
 
 Software development life cycle (SDLC) is a methodology used in product/project management that describes the software product creation process. One of the best methodologies is the “Agile” model as shown in the above diagram.
 1. Requirement gathering
@@ -47,18 +47,19 @@ This phase includes gathering any feedback from end users’, identifying other 
 ### **Scrum**
 ### **Agile methodology**
 
-![s2](https://github.com/sycsy/sycsy.github.io/assets/48885389/13d23425-d174-423f-81fc-c5d0d1e80a58)
+![s2](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/fb65c6ff-5cb4-45b0-a457-0e94ee39d962)
 
 Scrum is an agile methodology framework that uses an iterative approach and breaks down complex projects into smaller manageable phases known as the “sprint” process. The goal is to deliver high-quality products quickly and efficiently while remaining responsive to end users’ needs as well as changing requirements easily.
 
 The scrum team is made up of three main roles: Product owner, Scrum master and Development team.
 
-![s3](https://github.com/sycsy/sycsy.github.io/assets/48885389/ca49fd49-6e2f-4b5e-ba4b-a44f88b2c431)
+![s3](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/add7cd55-818b-4852-a9ce-1312c273ea06)
 
 Let’s dive into the scrum workflow in more detail to get a better understanding of agile development.
 
-![s4](https://github.com/sycsy/sycsy.github.io/assets/48885389/e5a88877-e31d-433c-9db5-ea7bba31b2cd)
+![s4](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/7f9f1b3f-f8a7-420c-9db0-9c1317e904fe)
 
-![s5](https://github.com/sycsy/sycsy.github.io/assets/48885389/b647f6be-ac53-47b6-a0d6-55d4c89a7086)
+![s5](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/70613cb2-deb8-446a-8d1b-d21e62168d1d)
+
 
 
