@@ -6,13 +6,13 @@ permalink: /projects/
 
 ## Data
 
-#### [Data Analysis using Excel Table, PivotTable & PivotChart](https://medium.com/@sycsy/data-analysis-and-visualisation-using-pivottable-pivotchart-565ee2d0497d)
+#### [Data Analysis using Excel Table, PivotTable & PivotChart](https://medium.com/@csyme/data-analysis-and-visualisation-using-pivottable-pivotchart-565ee2d0497d)
 - To identify the most popular chocolate
 
 ![pivottable](https://github.com/sycsy9/csy/assets/48885389/c968e85c-8212-42d6-8a0d-f916b6316b41)
 <br />
 
-#### [Visualising World Covid-19 Cases using Tableau](https://public.tableau.com/app/profile/syvizzes/viz/WorldCovid-19_16871536293740/Dashboard1)
+#### [Visualising World Covid-19 Cases using Tableau](https://public.tableau.com/app/profile/csyviz/viz/WorldCovid-19_16871536293740/Dashboard1)
 - To track top confirmed and recovered cases
 
 ![dashboard](https://github.com/sycsy9/csy/assets/48885389/cf70e6d8-f25e-42d0-9f7e-017685b8a6bc)
