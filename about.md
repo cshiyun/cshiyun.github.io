@@ -10,7 +10,7 @@ I studied EEE. I am experienced in supporting large-scale systems projects, and 
 - Certified in data analytics
 
 2. Systems
-- Software development lifecycle product management
+- Software development lifecycle digital product management
 
 <br/>
 
