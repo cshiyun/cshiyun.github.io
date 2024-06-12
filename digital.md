@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Digital
-permalink: /digital/
+title: Technology
+permalink: /technology/
 ---
 
-## Digital
+## Technology
 
 in-progress
