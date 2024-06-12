@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Technology
-permalink: /data technology/
+title: Projects
+permalink: /projects/
 ---
 
 ## Data Technology
