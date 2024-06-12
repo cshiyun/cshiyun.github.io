@@ -4,8 +4,6 @@ title: Data Technology
 permalink: /data technology/
 ---
 
-## Data
-
 #### [Data Analysis using Excel Table, PivotTable & PivotChart](https://medium.com/@csyme/data-analysis-and-visualisation-using-pivottable-pivotchart-565ee2d0497d)
 - To identify the most popular chocolate
 
