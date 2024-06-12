@@ -6,7 +6,7 @@ remote_theme: jekyll/minima
 header_pages:
   - about.md
   - data.md
-  - digital.md
+  - technology.md
 
 # Layout
 show_excerpts: true
