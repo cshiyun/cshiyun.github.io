@@ -5,7 +5,7 @@ remote_theme: jekyll/minima
 # Link pages
 header_pages:
   - about.md
-  - applications.md
+  - apps.md
   - data.md
 
 # Layout
