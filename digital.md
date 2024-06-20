@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Digial
-permalink: /digital/
+title: Applications
+permalink: /applications/
 ---
 
-## Digital
-in-progress
+## Applications
