@@ -5,7 +5,8 @@ remote_theme: jekyll/minima
 # Link pages
 header_pages:
   - about.md
-  - projects.md
+  - data.md
+  - digital.md
 
 # Layout
 show_excerpts: true
