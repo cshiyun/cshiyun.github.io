@@ -5,12 +5,9 @@ remote_theme: jekyll/minima
 # Link pages
 header_pages:
   - about.md
+  - applcations.md
   - data.md
-  - digital.md
 
 # Layout
 show_excerpts: true
-
-external:
-  - {title: Github, icon: github, url: "https://github.com/cshiyun"}
 
