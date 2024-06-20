@@ -11,6 +11,6 @@ header_pages:
 # Layout
 show_excerpts: true
 
-# Display footer with links external: 
- - {title: Github, icon: github, url: "https://github.com/cshiyun"}
+external:
+  - {title: Github, icon: github, url: "https://github.com/cshiyun"}
 
