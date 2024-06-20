@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Applications
-permalink: /applications/
+title: Apps
+permalink: /apps/
 ---
 
 ## Applications
