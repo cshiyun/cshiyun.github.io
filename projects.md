@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Data
+permalink: /data/
 ---
 
-## Data Technology
+## Data
 
 #### [Data Analysis using Excel Table, PivotTable & PivotChart](https://medium.com/@csyme/data-analysis-and-visualisation-using-pivottable-pivotchart-565ee2d0497d)
 - To identify the most popular chocolate
