@@ -6,7 +6,7 @@ permalink: /apps/
 ## Applications
 
 #### UAS Website using HTML CSS JS
-Institute conducted research on several technologies to enable safe integration of unmanned aircraft system in an urban environment. I was assigned multiple projects which include to create uas website using html css js.
+Institute conducted research on several technologies to enable safe integration of unmanned aircraft system in an urban environment. I was assigned multiple internship projects which include to create uas website using html css js.
 
 ![2](https://github.com/cshiyun/cshiyun.github.io/assets/48885389/4f61b701-0f0d-4878-b18e-0e09bf67283f)
 <br />
