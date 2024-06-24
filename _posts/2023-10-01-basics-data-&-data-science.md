@@ -9,7 +9,7 @@ layout: post
 The word data means "information, especially facts or numbers, collected to be examined and considered and used to help decision-making, or information in an electronic form that can be stored and used by a computer:"
 
 ### What is data?
-Data plays an essential role in today's digital world. Every applications (apps, social media platform, IOT devices, etc.) store data in databases where the applications of raw data is in different formats such as numeric, text, images or videos.
+Data plays an essential role in today's digital world. Applications (apps, social media platform, IOT devices, etc.) store data in databases where the applications of raw data is in different formats such as numeric, text, images or videos.
 
 In simple terms, data flows from a source to a destination.
 
